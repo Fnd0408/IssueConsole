@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="processing_type">
+        <item>Online</item>
+        <item>Processing</item>
+        <item>Cancel</item>
+        <item>Finished</item>
+    </string-array>
+    <string-array name="error_type">
+        <item>All</item>
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+    <string-array name="level_type">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+</resources>

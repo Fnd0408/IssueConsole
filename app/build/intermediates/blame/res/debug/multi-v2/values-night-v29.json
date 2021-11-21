@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\fnd04\\AndroidStudioProjects\\EventAlertEnglish\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v29\\values-night-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fnd04\\AppData\\Local\\Android\\Sdk\\caches\\transforms-2\\files-2.1\\853f7804ec6e035b69aba350dbbb6ed7\\base-4.0.0.300\\res\\values-night-v29\\values-night-v29.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,107,160",
+                        "endColumns": "51,52,51",
+                        "endOffsets": "102,155,207"
+                    }
+                }
+            ]
+        }
+    ]
+}

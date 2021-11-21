@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:layout_margin="30sp"
+              android:padding="10sp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_marginBottom="10sp"
+        android:text="Date"
+        android:textSize="20sp" />
+    <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginTop="10sp"
+            android:layout_marginBottom="10sp">
+
+        <RadioButton
+            android:id="@+id/day_rb1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="1 Day" />
+
+        <RadioButton
+            android:id="@+id/day_rb2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="7 Day" />
+
+        <RadioButton
+            android:id="@+id/day_rb3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="30 Day" />
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_marginBottom="10sp"
+        android:text="Finished"
+        android:textSize="20sp" />
+
+    <Switch
+        android:id="@+id/isDone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_marginBottom="10sp"
+        android:checked="true"
+        android:textOff="False"
+        android:textOn="True" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_marginBottom="10sp"
+        android:text="Count"
+        android:textSize="20sp" />
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="4"
+            android:id="@+id/et_count" android:layout_marginTop="10sp" android:layout_marginBottom="10sp"
+            android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_marginBottom="10sp"
+        android:text="Level"
+        android:textSize="20sp" />
+    <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/spinner" android:layout_marginTop="10sp"
+            android:layout_marginBottom="10sp"/>
+
+    <Button
+        android:id="@+id/btn_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_blue_selector"
+        android:text="@string/ok"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+</LinearLayout>

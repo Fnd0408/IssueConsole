@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-iid:20.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b5965f880b3cb5f6de4d401685a924f/firebase-iid-20.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02c65b3d1a0f13475d457fd136c753ec/firebase-iid-20.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b5965f880b3cb5f6de4d401685a924f/firebase-iid-20.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b5965f880b3cb5f6de4d401685a924f/firebase-iid-20.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/2b5965f880b3cb5f6de4d401685a924f/firebase-iid-20.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/2b5965f880b3cb5f6de4d401685a924f/firebase-iid-20.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/2b5965f880b3cb5f6de4d401685a924f/firebase-iid-20.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-iid/20.0.1/8242e0081e8a6e84263dbb8b0feee10aa11611c0/firebase-iid-20.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/modules-2/files-2.1/com.google.firebase/firebase-iid/20.0.1/8242e0081e8a6e84263dbb8b0feee10aa11611c0/firebase-iid-20.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

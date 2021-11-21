@@ -1,0 +1,17 @@
+<resources>
+    <color name="colorPrimary">#5ce1e6</color>
+    <color name="colorPrimaryDark">#00c2cb</color>
+    <color name="colorAccent">#C97E5E</color>
+    <color name="colorSelected">#CCCCCC</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#BBBBBB</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="google_red">#db3236</color>
+    <color name="google_blue">#4885ed</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+    <color name="warm_red">#d72523</color>
+    <color name="warm_yellow">#FCDC15</color>
+    <color name="warm_blue">#1e90ff</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Warning System</string>
+    <string name="account">Account</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="extra_login">Others</string>
+    <string name="ok">Okey</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="connecting">Connecting</string>
+    <string name="connecting_msg">Server Connecting</string>
+    <string name="login_error">Account/Password Error</string>
+    <string name="error_404">Application Lost,please Check app version</string>
+    <string name="auth_error">Verify error</string>
+    <string name="error_network">Network Error</string>
+    <string name="writing_data">Data writing</string>
+    <string name="version_change">Version Changed</string>
+    <string name="now_version">Version:</string>
+    <string name="now_version_forced">Need to update your application</string>
+    <string name="now_version_notforced">New version released</string>
+    <string name="download_context">App Downloading</string>
+    <string name="download_complete">Download Completed</string>
+    <string name="processing">Processing</string>
+    <string name="finish">Finished</string>
+    <string name="processing_status">Status：</string>
+    <string name="listen_success">Listening Success</string>
+    <string name="listen_fail">Listening Failed</string>
+    <string name="close">Close</string>
+    <string name="pwd_remember">Remember</string>
+    <string name="test_out_url">0.0.0.0</string>
+    <string name="prod_out_url">0.0.0.0</string>
+</resources>
